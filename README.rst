@@ -1,3 +1,13 @@
+.. rubric:: About this fork
+
+This is a development fork of `nipy/nipy <https://github.com/nipy/nipy>`__, a Python environment for neuroimaging analysis. Its scientific components and command-line tools support functional-image workflows, including 3D/4D image conversion, realignment, and time-series diagnostics. It is useful when developing analysis methods around Python arrays and established neuroimaging file formats.
+
+Fork work is tracked in `upstream PR #591 <https://github.com/nipy/nipy/pull/591>`__, proposing MATLAB launch without an intermediate shell. The proposal was open on 17 October 2026 and lives on its linked feature branch.
+
+The `official documentation <https://nipy.org/nipy/>`__ provides installation and analysis guidance. `Compare the default branch with upstream <https://github.com/jdotc1/nipy/compare/nipy:main...jdotc1:main>`__ when selecting a development revision. The original README below preserves the project's contributor attribution, installation links, testing instructions, and license information.
+
+.. rubric:: Upstream README
+
 .. -*- rest -*-
 .. vim:syntax=rst
 
